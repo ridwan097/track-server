@@ -1,18 +1,7 @@
-# Track app
+# Track app server
 
-The SmartSkies mobile app
+This is the server written in express for the track app I am making
 
-## Useful commands before starting
+## To run:
 
-npm install
-cd ios/
-pod install
-cd ..
-
-## For Android
-
-npm run android
-
-## For Ios
-
-npm run ios
+npm run dev
